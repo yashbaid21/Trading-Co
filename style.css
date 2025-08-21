@@ -489,7 +489,7 @@ nav .cta:hover {
 /* Brands Grid */
 .brands {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* ✅ 3 in a line */
+  grid-template-columns: repeat(4, 1fr); /* ✅ 4 in a line */
   gap: 1rem;
   align-items: stretch;
 }
